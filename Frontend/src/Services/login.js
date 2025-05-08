@@ -22,6 +22,7 @@ const startUser = async () => {
 
 const registerUser = async (data) => {
   try {
+  //  console.log("Registering user with data:", data); // Debugging line
     const response = await axiosInstance.post("users/register/", data);
     return response.data;
   } catch (error) {

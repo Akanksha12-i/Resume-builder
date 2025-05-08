@@ -1,6 +1,7 @@
 import mongoose from "mongoose";
 import { ApiError } from "../utils/ApiError.js";
-
+import dotenv from "dotenv";
+dotenv.config();
 const connectDB = async () => {
   try {
     const conn = await mongoose.connect(process.env.MONGODB_URI, {
