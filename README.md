@@ -18,11 +18,6 @@
 
 ![AI Suggestions](./Screenshot/AI%20Suggestions.png)  
 
-  
-
-###  📄 Export Options  
-- Download resumes in **PDF format**  
-
-![Download & Share](./Screenshot/downloadShare.png)  
+    
 
 ---
