@@ -11,7 +11,7 @@
 ### 🎨 Customizable Templates  
 - Choose from multiple resume templates  
 
-![Template Customization](./Screenshot/ThemeCust.png)  
+![Template Customization](./Screenshot/Theme.png)  
 
 ###  🤖 AI-Powered Suggestions  
 - Smart resume content suggestions  
